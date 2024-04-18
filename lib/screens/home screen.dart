@@ -81,7 +81,7 @@ class HomeScreen extends StatelessWidget {
                   const Padding(
                     padding: EdgeInsets.only(top: 5),
                     child: Text(
-                      'categoryModel.name',
+                      'Carpentry',
                       maxLines: 1,
                       overflow: TextOverflow.ellipsis,
                       textAlign: TextAlign.center,
